@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @weirdboi17
+- 👋 Hi, I’m @Rabo
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on AI
